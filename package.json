@@ -19,5 +19,8 @@
 	"bugs": {
 		"url": "https://github.com/mlgjsk/Node.js-Practice/issues"
 	},
-	"homepage": "https://github.com/mlgjsk/Node.js-Practice#readme"
+	"homepage": "https://github.com/mlgjsk/Node.js-Practice#readme",
+	"devDependencies": {
+		"nodemon": "^1.19.0"
+	}
 }
