@@ -10,7 +10,7 @@
 		"type": "git",
 		"url": "git+https://github.com/mlgjsk/Node.js-Practice.git"
 	},
-	"keywords": [ "nodejs", "node" ],
+	"keywords": [ "nodejs", "node", "freecodecamp" ],
 	"author": "Ana Simin",
 	"license": "MIT",
 	"bugs": {
