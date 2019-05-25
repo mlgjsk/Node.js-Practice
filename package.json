@@ -4,16 +4,13 @@
 	"description": "Practicing Node.js",
 	"main": "app.js",
 	"scripts": {
-		"test": "test"
+		"test": "Hello! This is test."
 	},
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/mlgjsk/Node.js-Practice.git"
 	},
-	"keywords": [
-		"nodejs",
-		"node"
-	],
+	"keywords": [ "nodejs", "node" ],
 	"author": "Ana Simin",
 	"license": "MIT",
 	"bugs": {
