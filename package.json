@@ -1,0 +1,23 @@
+{
+	"name": "node.js-practice",
+	"version": "1.0.0",
+	"description": "Practicing Node.js",
+	"main": "app.js",
+	"scripts": {
+		"test": "test"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mlgjsk/Node.js-Practice.git"
+	},
+	"keywords": [
+		"nodejs",
+		"node"
+	],
+	"author": "Ana Simin",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/mlgjsk/Node.js-Practice/issues"
+	},
+	"homepage": "https://github.com/mlgjsk/Node.js-Practice#readme"
+}
